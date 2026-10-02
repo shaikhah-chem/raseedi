@@ -1,10 +1,1 @@
-// ===============================================================
-//  ✨ رصيدي الذهبي ✨ — إعدادات الاتصال بقاعدة البيانات
-//  انسخي القيمتين من: Supabase → Project Settings → API
-//  (Project URL  و  anon public key)
-//  هذا المفتاح «عام» ومصمم ليكون في الموقع؛ الحماية تتم عبر صلاحيات قاعدة البيانات.
-// ===============================================================
-window.RASEEDI_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: ""
-};
+window.RASEEDI_CONFIG = {SUPABASE_URL: "https://dublnuwzwtcubgjdwhrt.supabase.co", SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR1YmxudXd6d3RjdWJnamR3aHJ0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA4NzA4MzEsImV4cCI6MjEwNjQ0NjgzMX0.4-PMl0-JQCaXIrw50hpZlDwpu2DC5ktA1juqoNlyGKU"};
